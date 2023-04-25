@@ -1,0 +1,7 @@
+C:\Users\kbala\source\repos\class_daire\bin\Debug\class_daire.exe.config
+C:\Users\kbala\source\repos\class_daire\bin\Debug\class_daire.exe
+C:\Users\kbala\source\repos\class_daire\bin\Debug\class_daire.pdb
+C:\Users\kbala\source\repos\class_daire\obj\Debug\class_daire.csproj.AssemblyReference.cache
+C:\Users\kbala\source\repos\class_daire\obj\Debug\class_daire.csproj.CoreCompileInputs.cache
+C:\Users\kbala\source\repos\class_daire\obj\Debug\class_daire.exe
+C:\Users\kbala\source\repos\class_daire\obj\Debug\class_daire.pdb

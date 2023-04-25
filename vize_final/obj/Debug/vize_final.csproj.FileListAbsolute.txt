@@ -1,0 +1,7 @@
+C:\Users\kbala\source\repos\vize_final\bin\Debug\vize_final.exe.config
+C:\Users\kbala\source\repos\vize_final\bin\Debug\vize_final.exe
+C:\Users\kbala\source\repos\vize_final\bin\Debug\vize_final.pdb
+C:\Users\kbala\source\repos\vize_final\obj\Debug\vize_final.csproj.AssemblyReference.cache
+C:\Users\kbala\source\repos\vize_final\obj\Debug\vize_final.csproj.CoreCompileInputs.cache
+C:\Users\kbala\source\repos\vize_final\obj\Debug\vize_final.exe
+C:\Users\kbala\source\repos\vize_final\obj\Debug\vize_final.pdb

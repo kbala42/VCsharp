@@ -1,0 +1,7 @@
+C:\Users\kbala\source\repos\KonsolEkrani\bin\Debug\KonsolEkrani.exe.config
+C:\Users\kbala\source\repos\KonsolEkrani\bin\Debug\KonsolEkrani.exe
+C:\Users\kbala\source\repos\KonsolEkrani\bin\Debug\KonsolEkrani.pdb
+C:\Users\kbala\source\repos\KonsolEkrani\obj\Debug\KonsolEkrani.csproj.AssemblyReference.cache
+C:\Users\kbala\source\repos\KonsolEkrani\obj\Debug\KonsolEkrani.csproj.CoreCompileInputs.cache
+C:\Users\kbala\source\repos\KonsolEkrani\obj\Debug\KonsolEkrani.exe
+C:\Users\kbala\source\repos\KonsolEkrani\obj\Debug\KonsolEkrani.pdb

@@ -1,0 +1,6 @@
+C:\Users\kbala\source\repos\AsalMi\obj\Debug\AsalMi.csproj.CoreCompileInputs.cache
+C:\Users\kbala\source\repos\AsalMi\bin\Debug\AsalMi.exe.config
+C:\Users\kbala\source\repos\AsalMi\bin\Debug\AsalMi.exe
+C:\Users\kbala\source\repos\AsalMi\bin\Debug\AsalMi.pdb
+C:\Users\kbala\source\repos\AsalMi\obj\Debug\AsalMi.exe
+C:\Users\kbala\source\repos\AsalMi\obj\Debug\AsalMi.pdb
