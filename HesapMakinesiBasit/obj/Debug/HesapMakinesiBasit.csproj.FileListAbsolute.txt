@@ -1,0 +1,7 @@
+C:\Users\kbala\source\repos\HesapMakinesiBasit\bin\Debug\HesapMakinesiBasit.exe.config
+C:\Users\kbala\source\repos\HesapMakinesiBasit\bin\Debug\HesapMakinesiBasit.exe
+C:\Users\kbala\source\repos\HesapMakinesiBasit\bin\Debug\HesapMakinesiBasit.pdb
+C:\Users\kbala\source\repos\HesapMakinesiBasit\obj\Debug\HesapMakinesiBasit.csproj.AssemblyReference.cache
+C:\Users\kbala\source\repos\HesapMakinesiBasit\obj\Debug\HesapMakinesiBasit.csproj.CoreCompileInputs.cache
+C:\Users\kbala\source\repos\HesapMakinesiBasit\obj\Debug\HesapMakinesiBasit.exe
+C:\Users\kbala\source\repos\HesapMakinesiBasit\obj\Debug\HesapMakinesiBasit.pdb
