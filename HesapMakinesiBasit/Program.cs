@@ -17,7 +17,7 @@ namespace HesapMakinesiBasit
             Console.WriteLine("Toplamak için  + tuşuna");
             Console.WriteLine("Çıkartmak için - tuşuna");
             Console.WriteLine("Çarpma için    * tuşuna");
-            Console.WriteLine("Bölmek için    - tuşuna");
+            Console.WriteLine("Bölmek için    / tuşuna");
             Console.WriteLine("basınız");
             String secim = Console.ReadLine();
             int sonuc;
