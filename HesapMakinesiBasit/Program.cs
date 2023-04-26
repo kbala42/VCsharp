@@ -30,17 +30,17 @@ namespace HesapMakinesiBasit
 
                 case "-":
                     sonuc = sayiBir - sayiIki;
-                    Console.WriteLine(sayiBir + " + " + sayiIki + " =" + sonuc);
+                    Console.WriteLine(sayiBir + " - " + sayiIki + " =" + sonuc);
                     break;
 
                 case "*":
                     sonuc = sayiBir * sayiIki;
-                    Console.WriteLine(sayiBir + " + " + sayiIki + " =" + sonuc);
+                    Console.WriteLine(sayiBir + " x " + sayiIki + " =" + sonuc);
                     break;
 
                 case "/":
                     sonuc = sayiBir / sayiIki;
-                    Console.WriteLine(sayiBir + " + " + sayiIki + " =" + sonuc);
+                    Console.WriteLine(sayiBir + " / " + sayiIki + " =" + sonuc);
                     break;
 
             }
