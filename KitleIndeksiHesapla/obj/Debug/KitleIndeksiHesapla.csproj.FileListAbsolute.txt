@@ -1,0 +1,7 @@
+C:\Users\kbala\source\repos\KitleIndeksiHesapla\bin\Debug\KitleIndeksiHesapla.exe.config
+C:\Users\kbala\source\repos\KitleIndeksiHesapla\bin\Debug\KitleIndeksiHesapla.exe
+C:\Users\kbala\source\repos\KitleIndeksiHesapla\bin\Debug\KitleIndeksiHesapla.pdb
+C:\Users\kbala\source\repos\KitleIndeksiHesapla\obj\Debug\KitleIndeksiHesapla.csproj.AssemblyReference.cache
+C:\Users\kbala\source\repos\KitleIndeksiHesapla\obj\Debug\KitleIndeksiHesapla.csproj.CoreCompileInputs.cache
+C:\Users\kbala\source\repos\KitleIndeksiHesapla\obj\Debug\KitleIndeksiHesapla.exe
+C:\Users\kbala\source\repos\KitleIndeksiHesapla\obj\Debug\KitleIndeksiHesapla.pdb

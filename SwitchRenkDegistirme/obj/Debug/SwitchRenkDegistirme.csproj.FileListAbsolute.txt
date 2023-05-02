@@ -1,0 +1,7 @@
+C:\Users\kbala\source\repos\SwitchRenkDegistirme\bin\Debug\SwitchRenkDegistirme.exe.config
+C:\Users\kbala\source\repos\SwitchRenkDegistirme\bin\Debug\SwitchRenkDegistirme.exe
+C:\Users\kbala\source\repos\SwitchRenkDegistirme\bin\Debug\SwitchRenkDegistirme.pdb
+C:\Users\kbala\source\repos\SwitchRenkDegistirme\obj\Debug\SwitchRenkDegistirme.csproj.AssemblyReference.cache
+C:\Users\kbala\source\repos\SwitchRenkDegistirme\obj\Debug\SwitchRenkDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\kbala\source\repos\SwitchRenkDegistirme\obj\Debug\SwitchRenkDegistirme.exe
+C:\Users\kbala\source\repos\SwitchRenkDegistirme\obj\Debug\SwitchRenkDegistirme.pdb

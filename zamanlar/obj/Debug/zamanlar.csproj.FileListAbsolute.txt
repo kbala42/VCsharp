@@ -1,0 +1,7 @@
+C:\Users\kbala\source\repos\zamanlar\bin\Debug\zamanlar.exe.config
+C:\Users\kbala\source\repos\zamanlar\bin\Debug\zamanlar.exe
+C:\Users\kbala\source\repos\zamanlar\bin\Debug\zamanlar.pdb
+C:\Users\kbala\source\repos\zamanlar\obj\Debug\zamanlar.csproj.AssemblyReference.cache
+C:\Users\kbala\source\repos\zamanlar\obj\Debug\zamanlar.csproj.CoreCompileInputs.cache
+C:\Users\kbala\source\repos\zamanlar\obj\Debug\zamanlar.exe
+C:\Users\kbala\source\repos\zamanlar\obj\Debug\zamanlar.pdb
